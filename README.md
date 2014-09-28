@@ -1,4 +1,5 @@
-metodos-de-ordenacao
-====================
+<h1>Métodos de Ordenação<h1>
 
-Implementação em C dos conhecimentos sobre Métodos de Ordenação.
+<hr />
+
+<h3>Implementação em C dos conhecimentos sobre Métodos de Ordenação.<h3>
